@@ -1,3 +1,3 @@
 # VERIFY
-[verify]JunNotifier:gist.github.com/RobertIndie/d5d7b6d226f8c27fac7d9279172b8167|
+[verify]JunNotifier:github.com/RobertIndie/verify/blob/master/JunNotifier|
 [verify]JunNotifierEnable:true|
